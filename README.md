@@ -18,6 +18,6 @@ So können alle Mitglieder direkt im Discord sehen, ob der Server erreichbar ist
    ```bash
    git clone https://github.com/thetf511/Fivem-status-bot.git
    cd Fivem-status-bot
-2. Wichtige Pakete Installieren:
-   '''pip install aiohttp
-      pip install discord.py
+## 2. Wichtige Pakete Installieren:
+   .pip install aiohttp
+   -pip install discord.py
