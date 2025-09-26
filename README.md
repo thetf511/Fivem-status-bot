@@ -16,6 +16,6 @@ So können alle Mitglieder direkt im Discord sehen, ob der Server erreichbar ist
 ## 📦 Installation
 1. Repository klonen:
    ```bash
-   git clone https://github.com/deinname/fivem-discord-status-bot.git
-   cd fivem-discord-status-bot
+   git clone https://github.com/thetf511/Fivem-status-bot.git
+   cd Fivem-status-bot
 
